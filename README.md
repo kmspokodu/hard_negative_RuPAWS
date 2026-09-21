@@ -31,12 +31,7 @@ After preprocessing, the combined training data contains **11,772** sentence pai
 
 ```text
 ├── data/
-│   ├── raw/
-│   └── processed/
 ├── notebooks/
-│   └── experiments.ipynb
 ├── src/
-├── results/
-├── report/
 ├── requirements.txt
 └── README.md
